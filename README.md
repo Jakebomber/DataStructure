@@ -2,6 +2,8 @@
 #### Author: Yida Li
 #### Date: 2021/12/3 
 
+Now updating... not finish yet.
+
 ## 1. utility
 1. enum for GOOD/ERROR/FATEL
 2. status return value auto-response 
