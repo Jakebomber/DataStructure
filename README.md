@@ -3,7 +3,8 @@
 #### Date: 2021/12/3 
 
 Author is busy. I may not update it for a period of time.
-Now updating... not finish yet.
+
+not finish yet.
 
 ## 1. utility
 1. enum for GOOD/ERROR/FATEL
